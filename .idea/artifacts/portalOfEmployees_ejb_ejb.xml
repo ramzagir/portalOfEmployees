@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="portalOfEmployees.ejb:ejb">
+    <output-path>$PROJECT_DIR$/portalOfEmployees.ejb/target</output-path>
+    <root id="archive" name="portalOfEmployees.ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="portalOfEmployees.ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

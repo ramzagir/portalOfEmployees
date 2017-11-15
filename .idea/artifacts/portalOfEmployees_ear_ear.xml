@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="portalOfEmployees.ear:ear">
+    <output-path>$PROJECT_DIR$/portalOfEmployees.ear/target</output-path>
+    <root id="archive" name="portalOfEmployees.ear-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="portalOfEmployees.ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

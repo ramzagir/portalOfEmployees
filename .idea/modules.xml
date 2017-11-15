@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/portalOfEmployees.iml" filepath="$PROJECT_DIR$/portalOfEmployees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portalOfEmployees.client/portalOfEmployees.client.iml" filepath="$PROJECT_DIR$/portalOfEmployees.client/portalOfEmployees.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portalOfEmployees.ear/portalOfEmployees.ear.iml" filepath="$PROJECT_DIR$/portalOfEmployees.ear/portalOfEmployees.ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portalOfEmployees.ejb/portalOfEmployees.ejb.iml" filepath="$PROJECT_DIR$/portalOfEmployees.ejb/portalOfEmployees.ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portalOfEmployees.web/portalOfEmployees.web.iml" filepath="$PROJECT_DIR$/portalOfEmployees.web/portalOfEmployees.web.iml" />
+    </modules>
+  </component>
+</project>

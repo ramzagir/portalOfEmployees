@@ -26,6 +26,29 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>portalOfEmployees.client</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <!--  JSF -->
+
+        <dependency>
+            <groupId>com.sun.faces</groupId>
+            <artifactId>jsf-api</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+
+        <!--  JPA -->
+
+        <dependency>
+            <groupId>org.apache.openjpa</groupId>
+            <artifactId>openjpa</artifactId>
+            <version>2.4.2</version>
+        </dependency>
+
     </dependencies>
 
     <build>

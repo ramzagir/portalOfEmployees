@@ -12,4 +12,41 @@
     <module>portalOfEmployees.ear</module>
     <module>portalOfEmployees.client</module>
   </modules>
+
+  <dependencies>
+
+
+
+    <dependency>
+      <groupId>javax</groupId>
+      <artifactId>javaee-web-api</artifactId>
+      <version>8.0</version>
+    </dependency>
+
+    <!--  JSF -->
+
+    <dependency>
+      <groupId>com.sun.faces</groupId>
+      <artifactId>jsf-api</artifactId>
+      <version>2.2.1</version>
+    </dependency>
+
+    <!--  JPA -->
+
+    <dependency>
+      <groupId>org.apache.openjpa</groupId>
+      <artifactId>openjpa</artifactId>
+      <version>2.4.2</version>
+    </dependency>
+
+    <!-- MySQL -->
+
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.8-dmr</version>
+    </dependency>
+
+  </dependencies>
+
 </project>

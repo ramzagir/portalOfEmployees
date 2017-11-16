@@ -6,6 +6,32 @@
         <element id="directory" name="classes">
           <element id="module-output" name="portalOfEmployees.web" />
         </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="portalOfEmployees.web-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="portalOfEmployees.web" />
+          </element>
+          <element id="archive" name="portalOfEmployees.web-1.0-SNAPSHOT.">
+            <element id="module-output" name="portalOfEmployees.web" />
+          </element>
+          <element id="archive" name="portalOfEmployees.client-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="portalOfEmployees.client" />
+          </element>
+          <element id="archive" name="portalOfEmployees.ejb-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="portalOfEmployees.ejb" />
+          </element>
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.openjpa:openjpa:2.4.2" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+          <element id="library" level="project" name="Maven: net.sourceforge.serp:serp:1.15.1" />
+          <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.6" />
+          <element id="library" level="project" name="Maven: org.apache.xbean:xbean-asm5-shaded:3.17" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jpa_2.0_spec:1.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.8-dmr" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/portalOfEmployees.web/target/portalOfEmployees.web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />

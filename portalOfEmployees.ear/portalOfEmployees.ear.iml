@@ -20,5 +20,18 @@
     <orderEntry type="module" module-name="portalOfEmployees.client" />
     <orderEntry type="module" module-name="portalOfEmployees.ejb" />
     <orderEntry type="module" module-name="portalOfEmployees.web" />
+    <orderEntry type="library" name="Maven: javax:javaee-web-api:8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.faces:jsf-api:2.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.openjpa:openjpa:2.4.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.serp:serp:1.15.1" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-asm5-shaded:3.17" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jpa_2.0_spec:1.1" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.8-dmr" level="project" />
   </component>
 </module>
